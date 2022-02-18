@@ -1,0 +1,17 @@
+{
+ "aliases":{},
+ "auto_channels":{
+  "943836447729930280":{
+   "secondaries":{},
+   "template":"\ud83c\udfae\u30fb@@creator@@"
+  }
+ },
+ "channel_name_template":"## [@@game_name@@]",
+ "enabled":true,
+ "guild_name":"MLBB | Just Delicious Server",
+ "last_activity":1645100201,
+ "last_channel":943836379190808626,
+ "left":false,
+ "requiredrole":"",
+ "server_contact":234301642768384010
+}

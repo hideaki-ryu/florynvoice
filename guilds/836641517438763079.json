@@ -1,0 +1,17 @@
+{
+ "aliases":{},
+ "auto_channels":{
+  "943761542967603251":{
+   "secondaries":{},
+   "template":"\ud83c\udfae\u30fbTeam Voice +#"
+  }
+ },
+ "channel_name_template":"## [@@game_name@@]",
+ "enabled":true,
+ "guild_name":"Hideaki-Ryu's announcement",
+ "last_activity":1645098258,
+ "last_channel":836641517438763087,
+ "left":false,
+ "requiredrole":"",
+ "server_contact":234301642768384010
+}
